@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_211" class="java.beans.XMLDecoder">
+ <object class="modelo.Analizador" id="Analizador0">
+  <void property="rutaCarpeta">
+   <string>C:\Users\Crisi\Documents\copia</string>
+  </void>
+  <void property="tablas">
+   <void method="add">
+    <object class="java.util.Hashtable">
+     <void method="put">
+      <string>archivoPrueba1.txt</string>
+      <int>9</int>
+     </void>
+     <void method="put">
+      <string>gestionDeCadenas.odt</string>
+      <int>3592</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable">
+     <void method="put">
+      <string>archivoPrueba2.txt</string>
+      <int>34</int>
+     </void>
+     <void method="put">
+      <string>gestionDeCadenas.pdf</string>
+      <int>13470</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable">
+     <void method="put">
+      <string>Primera Actividad Rubrica Matematicas Discretas.docx</string>
+      <int>151776</int>
+     </void>
+     <void method="put">
+      <string>ctr.txt</string>
+      <int>47</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable">
+     <void method="put">
+      <string>desktop.ini</string>
+      <int>38</int>
+     </void>
+     <void method="put">
+      <string>Proyecto Fundamentos de algoritmia.docx</string>
+      <int>1321</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable">
+     <void method="put">
+      <string>fantasy.docx</string>
+      <int>1106</int>
+     </void>
+     <void method="put">
+      <string>proyectoDeDiscretasOriginal.odt</string>
+      <int>187192</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable">
+     <void method="put">
+      <string>laboratorio 2 transistores y diodos.pdf</string>
+      <int>22174</int>
+     </void>
+     <void method="put">
+      <string>proyectoDeDiscretasOriginal.pdf</string>
+      <int>147780</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable">
+     <void method="put">
+      <string>Last Loaded Quiz.pdsbak</string>
+      <int>1587</int>
+     </void>
+     <void method="put">
+      <string>proyectoDeDiscretasOriginal2pdf.pdf</string>
+      <int>147853</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable">
+     <void method="put">
+      <string>reciboDePagoImprimir.pdf</string>
+      <int>2238</int>
+     </void>
+     <void method="put">
+      <string>m.docx</string>
+      <int>1004</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable">
+     <void method="put">
+      <string>Screenshot_2019-02-08 Formato de Cancelación en Banco - Universidad del Quindío - VIGILADA MINEDUCACIÓN.png</string>
+      <int>8626</int>
+     </void>
+     <void method="put">
+      <string>Quiz.pdsprj</string>
+      <int>1582</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable">
+     <void method="put">
+      <string>Quiz.pdsprj.LAPTOP-ABU5TL4O.Crisi.workspace</string>
+      <int>184</int>
+     </void>
+     <void method="put">
+      <string>TALLER DEL PARQUEADERO.docx</string>
+      <int>46970</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable">
+     <void method="put">
+      <string>Trabajo escrito de discretas.docx</string>
+      <int>21729</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable"/>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable"/>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable"/>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable"/>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable"/>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable"/>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable"/>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable"/>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable"/>
+   </void>
+   <void method="add">
+    <object class="java.util.Hashtable"/>
+   </void>
+  </void>
+ </object>
+</java>
